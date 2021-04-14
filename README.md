@@ -1,6 +1,6 @@
 # picodisplay-timer
 
-A timer for your Raspberry Pi Pico [Pico Display](https://shop.pimoroni.com/products/pico-display-pack).
+A timer for your Raspberry Pi Pico and [Pico Display](https://shop.pimoroni.com/products/pico-display-pack).
 
 ## Setup
 
