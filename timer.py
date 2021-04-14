@@ -17,7 +17,7 @@ while True:
     display.set_pen(255, 255, 0) 
     display.clear()
     display.set_pen(0, 0, 0)  # Set pen to black 
-    display.text("NS Timer", 10, 10, 240, 5)  # Add some text
+    display.text("Timer", 10, 10, 240, 5)  # Add some text
     display.text("Press Y to Start", 10, 60, 240, 4)  # Add some text
     if display.is_pressed(display.BUTTON_A):
         display.set_pen(255, 255, 0)
